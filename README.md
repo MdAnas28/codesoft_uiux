@@ -5,6 +5,6 @@ codesoft ui/ux internship
 
 Please go through the whole video and give you're honest feedback!
 
-[prototype link](https://www.figma.com/proto/xOs8NtdOYgEhNruXfDuhQI/Untitled?node-id=0-1&t=WciPUiysisOvj8GF-1)(Try You're self) : -
+prototype link(Try You're self) : -
 https://www.figma.com/proto/xOs8NtdOYgEhNruXfDuhQI/Untitled?node-id=0-1&t=WciPUiysisOvj8GF-1
 
