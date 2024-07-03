@@ -20,4 +20,4 @@ Please go through the whole video and give you're honest feedback!
 
 prototype link(Try You're self) : -
 
-https://www.figma.com/proto/xOs8NtdOYgEhNruXfDuhQI/Untitled?node-id=124-903&t=FyJUvLHfktRnOsqw-1
+https://www.figma.com/proto/xOs8NtdOYgEhNruXfDuhQI/Untitled?node-id=83-97&t=FyJUvLHfktRnOsqw-1
